@@ -1,0 +1,11 @@
+?- is_sister(svetlana, ivan).
+true .
+
+?- is_brother(ivan, svetlana).
+true .
+
+?- is_uncle(michail, ivan).
+true.
+
+?- is_grandmother(alise, ivan).
+true.

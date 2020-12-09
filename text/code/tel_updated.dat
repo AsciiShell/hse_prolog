@@ -1,0 +1,7 @@
+:- dynamic phone/2.
+
+phone(ivan, 1234337).
+phone(petr, 1111567).
+phone(masha, 32222232).
+phone(alex, 88005553535).
+

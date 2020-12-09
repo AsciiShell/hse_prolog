@@ -1,0 +1,30 @@
+?- a_familiar_b(A, B).
+A = petrov,
+B = sidorov ;
+A = sidorov,
+B = petrov ;
+false.
+
+?- a_family_familiar_b(A,B).
+A = petrova,
+B = sidorova ;
+A = sidorova,
+B = petrova ;
+false.
+
+?- department_n1(ID, FIO).
+ID = 1,
+FIO = petrov ;
+ID = 2,
+FIO = sidorov.
+
+?- salary_more_than(F, 2000).
+F = petrov ;
+F = sidorov ;
+F = romanov.
+
+?- children_g_1(FIO, N).
+FIO = sidorov,
+N = 2 ;
+FIO = romanov,
+N = 3.

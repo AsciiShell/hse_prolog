@@ -1,0 +1,7 @@
+?- ancestor(A,B).
+A = petrov,
+B = ivanov ;
+A = sidorov,
+B = petrov ;
+A = romanov,
+B = petrov.

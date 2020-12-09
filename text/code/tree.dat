@@ -1,0 +1,7 @@
+apple_tree(papirovka, summer).
+apple_tree(melba, summer).
+apple_tree(antonovka, winter).
+apple_tree(yelsy, summer).
+pear_tree(lada, summer).
+pear_tree(moscovskaya, summer).
+pear_tree(chizovskaya, autumn).

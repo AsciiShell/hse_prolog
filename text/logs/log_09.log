@@ -1,0 +1,11 @@
+?- task().
+sidirov is fighter
+true ;
+ivanov is winner
+true ;
+ivanov is winner
+true ;
+petrov is sportsman
+true ;
+petrov is sportsman
+true.

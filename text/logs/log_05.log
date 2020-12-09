@@ -1,0 +1,8 @@
+?- comp(1,0).
+A is greater than B
+
+?- comp(0,1).
+A is less than B
+
+?- comp(0,0).
+A is equal B

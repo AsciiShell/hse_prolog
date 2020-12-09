@@ -1,0 +1,11 @@
+?- task.
+Enter tree name: apple.
+Enter type name: |: summer.
+papirovka
+melba
+yelsy
+
+?- task.
+Enter tree name: pear.
+Enter type name: |: winter.
+No data
